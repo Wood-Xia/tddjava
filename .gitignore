@@ -1,0 +1,7 @@
+/.settings
+/.project
+*.iml
+.idea
+**/pom.xml.versionsBackup
+
+
