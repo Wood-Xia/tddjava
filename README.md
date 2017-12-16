@@ -1,3 +1,5 @@
+[![build status](https://travis-ci.org/Wood-Xia/tddjava.svg?branch=master)
+
 Source code for the Test Driven Development class.
 
 # TDD Core Concepts
